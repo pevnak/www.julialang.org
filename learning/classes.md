@@ -18,6 +18,8 @@ If you know of other classes using Julia for teaching, please consider updating 
     * [MTH 229](https://www.math.csi.cuny.edu/abhijit/229/), Calculus Computer Laboratory (Prof. John Verzani), Spring 2014. Also see the [MTH 229 Projects](https://mth229.github.io) page.
 * Cornell University
     * [CS 5220](https://www.cs.cornell.edu/~bindel/class/cs5220-s14/), Applications of Parallel Computers (Prof. David Bindel), Spring 2014
+* Czech Technical University in Prague
+    * [B0M36SPJ](https://github.com/JuliaTeachingCTU/Scientific-Programming-in-Julia), Scientific Programming in Julia (Václav Šmídl, Tomáš Pevný), Fall 2021
 * École Polytechnique Fédérale de Lausanne
     * [CIVIL 557] Decision-aid methodologies in transportation (Mor Kaspi, Virginie Lurkin), Spring 2017
 * [Einaudi Institute for Economics and Finance, Rome](http://www.eief.it/eief/)
